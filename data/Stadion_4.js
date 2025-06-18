@@ -1,0 +1,1 @@
+var json_Stadion_4 = {"type":"FeatureCollection","name":"Stadion_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Stadion":"Stadion Gemilang","X":414593.0,"Y":9164331.0},"geometry":{"type":"Point","coordinates":[110.22580745380904,-7.559433817432542]}}]}
